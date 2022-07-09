@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GonzaloPonce7
-- 👀 I’m interested in cats, making new frinds, metal music and football.
+- 👀 I’m interested in cats, making new friends, metal music and football.
 - 🌱 I’m currently learning full stack development
 - 📫 How to reach me: gonzalo.p791@gmail.com
 
